@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #AdList Sanitizer 0.1b#
 #by M-A.Sc#
 #Slow and dirty but multiplattform ;)#
