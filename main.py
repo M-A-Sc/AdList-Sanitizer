@@ -140,8 +140,7 @@ def display_entry_stats():
     percentage_difference = (num_entries_sanity / num_entries_master) * 100
 
     print(f"master.txt has {num_entries_master} Number of Domains.")
-    print(f"The sanitized 'sanity.txt' has {num_entries_sanity} Number of Domains.")
-    #print(f"Der prozentuale Unterschied zur 'master.txt' beträgt {percentage_difference:.2f}%.")
+    print(f"The sanitized 'sanity.txt' has {num_entries_sanity} Number of Domains.")  
     print(f"The final list is just {percentage_difference:.2f}% the size of master.txt.")
 
 # main
