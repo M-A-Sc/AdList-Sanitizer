@@ -1,5 +1,5 @@
 #AdList Sanitizer 0.1b#
-#by M-A.S#
+#by M-A.Sc#
 #Slow and dirty but multiplattform ;)#
 
 # There's a bunch of Adlists floating around... With this script you can
