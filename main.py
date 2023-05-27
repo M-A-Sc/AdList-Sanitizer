@@ -5,7 +5,7 @@
 #Slow and dirty but multiplattform ;)#
 
 # There's a bunch of Adlists floating around... With this script you can
-# download multiply Adlists (lists.txt), filter and extract valid domains and subdomains entries,
+# download multiple Adlists (lists.txt), filter and extract valid domains and subdomains entries,
 # delete duplicates and specific domains and make yourself a nice customized and clean (sanitized:) AdList
 
 import os
