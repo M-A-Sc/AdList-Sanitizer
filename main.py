@@ -2,7 +2,7 @@
 
 #AdList Sanitizer 0.1b#
 #by M-A.Sc#
-#Slow and dirty but multiplattform ;)#
+#Slow and dirty but multiplatform ;)#
 
 # There's a bunch of Adlists floating around... With this script you can
 # download multiple Adlists (lists.txt), filter and extract valid domains and subdomains entries,
