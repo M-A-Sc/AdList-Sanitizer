@@ -1,5 +1,5 @@
 #M-A-SCc
-#C-Modul for soon to be Adlist-Sanatizer 0.02b
+#C-Modul for soon to be Adlist-Sanitizer 0.02b
 
 #include <stdio.h>
 #include <stdlib.h>
